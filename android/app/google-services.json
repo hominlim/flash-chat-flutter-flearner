@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "153039752857",
+    "project_id": "flash-chat-fcb41",
+    "storage_bucket": "flash-chat-fcb41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153039752857:android:fcb93b07364863c1287208",
+        "android_client_info": {
+          "package_name": "co.limhomin.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153039752857-b8likhsntj2hlocp53i0ls63io5o0j3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7_CdqtWLCWM3BGXBE-1ybe-pQoPb1lto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153039752857-b8likhsntj2hlocp53i0ls63io5o0j3p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "153039752857-72d13abnoqa0a65bov7iij1lj1k8enal.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hominlim.flashChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
